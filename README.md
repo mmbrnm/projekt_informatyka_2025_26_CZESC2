@@ -27,3 +27,13 @@ Aplikacja nie korzysta z gotowych grafik – cały schemat, rury oraz poziomy ci
 
 ## Uruchomienie
 Projekt wymaga zainstalowanej biblioteki PyQt6. Aby uruchomić symulację, należy włączyć plik: "Projekt_Python_Informatyka.py"
+
+## Przykładowe działanie programu
+
+### 1. Stan początkowy
+Program po uruchomieniu. Zbiornik Z1 jest pełny, pozostałe puste. Proces czeka na start.
+![Stan początkowy](Widok_Programu_Poczatek.png)
+
+### 2. Stan końcowy
+Zakończenie procesu. Produkt został przetworzony, ogrzany i przelany do zbiornika końcowego Z4.
+![Stan końcowy](Widok_Programu_Koniec.png)
